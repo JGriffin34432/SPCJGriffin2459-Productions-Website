@@ -8,10 +8,15 @@ Founded in December 2006, 000webhost.com has a trusted free hosting members base
 
 Register now and get it all free: 
 *** 1500 MB of disk space 
+
 *** 100 GB of data transfer
+
 *** PHP and MySQL support with no restrictions
+
 *** cPanel control panel
+
 *** Website Builder
+
 *** Absolutely no advertising! 
 
 Join us now: https://www.000webhost.com/1047289.html
