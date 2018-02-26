@@ -7,6 +7,7 @@
 Founded in December 2006, 000webhost.com has a trusted free hosting members base of over 60,000 members and still counting! Offering professional quality hosting, support, uptime and reliability, we have a great community of webmasters, you'd love to be a part of! 
 
 Register now and get it all free: 
+
 *** 1500 MB of disk space 
 
 *** 100 GB of data transfer
