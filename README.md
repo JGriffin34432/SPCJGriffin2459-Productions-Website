@@ -1,6 +1,6 @@
 [![Website](https://img.shields.io/website-up-down-green-red/http/spcjgriffin2459-productions.000webhostapp.com.svg?label=SPCJGriffin2459-Productions-Website&style=for-the-badge)](http://spcjgriffin2459-productions.000webhostapp.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/tinyelvis789.svg?style=for-the-badge&logo=twitter&label=Follow)](http://twitter.com/tinyelvis789)
-[![GitHub followers](https://img.shields.io/github/followers/JGriffin34432.svg?style=for-the-badge&logo=github&label=Follow)](http://github.com/JGriffin34432)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tinyelvis789.svg?style=for-the-badge&logo=twitter&label=Twitter-Followers)](http://twitter.com/tinyelvis789)
+[![GitHub followers](https://img.shields.io/github/followers/JGriffin34432.svg?style=for-the-badge&logo=github&label=GitHub-Followers)](http://github.com/JGriffin34432)
 
 **If you wish to have a professional shared hosting quality in a free hosting package, come and host with 000webhost.com and experience the best service you can get absolutely free.
 
