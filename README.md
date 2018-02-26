@@ -14,4 +14,4 @@ Register now and get it all free:
 *** Website Builder
 *** Absolutely no advertising! 
 
-Join us now: https://www.000webhost.com/1047289.html(https://www.000webhost.com/1047289.html)
+Join us now: https://www.000webhost.com/1047289.html
